@@ -1,0 +1,6 @@
+{
+  "name": "FlavorFusion — AI-Powered Culinary Intelligence",
+  "description": "Discover Flavors. Create Connections. Reinvent Food. Computational gastronomy platform integrating Foodoscope RecipeDB and FlavorDB for the IIIT Delhi Fork It Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
